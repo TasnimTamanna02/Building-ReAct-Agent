@@ -119,5 +119,5 @@ This repository serves as a **progressive learning framework** for:
 ##  Author
 
 **Tasnim Tamanna**
-*Computer Science & Engineering Student | AI/ML Learner | Exploring Agentic Reasoning Systems*
+*Computer Science Graduate | Aspiring AI Researcher | Exploring Machine Learning and Agentic AI Systems*
 
